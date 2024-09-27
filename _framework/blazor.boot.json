@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Bevans1210Home",
   "resources": {
-    "hash": "sha256-hODz5q7a17uXHOiBi648E7258NHaAf9M3SDRahw55p4=",
+    "hash": "sha256-dwvdaSdx6leq3i0bz3QZB8Ziop0M/4oi7RJifAPfnuk=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.py2ch0wlpj.js": "sha256-tP8PaYe144ttgys45R33vCv1/CYbBLnDIrwKYlmglfg="
     },
@@ -9,7 +9,7 @@
       "dotnet.runtime.8.0.8.gjn324r0ni.js": "sha256-0Dpj/NkVD5WqSC16ZvJLmlc38iv9+Je+umYBVOycPVU="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-iEhzboUFPf4wEnY4p4yAO6zm1cb4Mg71CpNuMASPRbs="
+      "dotnet.native.wasm": "sha256-Inj3eAwhKRajY31g/s/OBgSZAh4gSKf0NmsHpyLJ984="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Bevans1210Home.wasm": "sha256-Pvl7cd2glMXmSwuGVAVLaYgd+cxc8pNEKVgSiJN3MZk=",
+      "Bevans1210Home.wasm": "sha256-6i4hsY43DhDj8fY+hfiTBewQz6FjSV3tM8SeS0hUzCw=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-un0mWHcNYsRjdRZz/RwoEXZ36QV3diPGsr1753foDzQ=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-0zJklO0a13ExtQayAC5+9otMAkQngg6LYW0dYkpj2FQ=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-SXbygsDp7VS1Ah6C6GM2A8XpOf0l9D6BkPm4hAN+8vU=",
@@ -50,7 +50,7 @@
       "System.Net.Http.wasm": "sha256-i+zTMbmdvjevXKGSt6mOk7PvPLLBKZTHM4l/jhVPUJw=",
       "System.Net.Primitives.wasm": "sha256-lhJICDICus6Y3eImdBY4QOxHHt0AKXAlLKgGG16oo34=",
       "System.ObjectModel.wasm": "sha256-DRBo9NpOZgLKvUOKH4nM+fUfyhIKHrXpK4fxhpMLS+A=",
-      "System.Private.CoreLib.wasm": "sha256-SVY/OOwa3WplRok6/OY40j/uFhfXIsUhkJPoNMasc68=",
+      "System.Private.CoreLib.wasm": "sha256-fiByRU+f2nD2FhEaRzwImAv2zjv8AmII5liKWyWDRnc=",
       "System.Private.Uri.wasm": "sha256-cPZXJG/e4xBlVz6yElukncsGHuzjbd4dru8YieOvobI=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-axgwq/HmUZ9ac8hGCXLwlExQsFnu3rH6uakC50cgATc=",
       "System.Runtime.wasm": "sha256-rVf8G4yVlYaoyNZL+zgfcquE1+6ehDazuXuwLbAM7hE=",
