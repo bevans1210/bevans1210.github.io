@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Bevans1210Home",
   "resources": {
-    "hash": "sha256-FaOOb6SU0x9w89B/x+jGbuyxXyDOHbL9G5/yxcRkcU4=",
+    "hash": "sha256-r5zPDdVoeWnkZr459LbwDHIqSezAhDjutYj4CtiBFUc=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.py2ch0wlpj.js": "sha256-W7mmqoQtiOPsJdtn9z8qzaRH20FpMHWjHrD/WK56Fr4="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Bevans1210Home.wasm": "sha256-gMrniiPdUfj7wciojoy/glVTOQ0ruX1VuV0Zkhs8NiA=",
+      "Bevans1210Home.wasm": "sha256-MEzB/IvXGGjhefN+DkSBnNhl5DEFxYa7OAp2X17SRsE=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-un0mWHcNYsRjdRZz/RwoEXZ36QV3diPGsr1753foDzQ=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-0zJklO0a13ExtQayAC5+9otMAkQngg6LYW0dYkpj2FQ=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-SXbygsDp7VS1Ah6C6GM2A8XpOf0l9D6BkPm4hAN+8vU=",
