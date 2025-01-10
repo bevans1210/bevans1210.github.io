@@ -8,6 +8,7 @@
     <base href="/" />
     <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
     <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="css/Loading.css" />
     <link rel="icon" type="image/png" href="favicon.png" />
     <link href="Bevans1210Home.styles.css" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
@@ -16,11 +17,14 @@
 
 <body>
     <div id="app">
-        <svg class="loading-progress">
-            <circle r="40%" cx="50%" cy="50%" />
-            <circle r="40%" cx="50%" cy="50%" />
-        </svg>
-        <div class="loading-progress-text"></div>
+        <div class="aborder">
+            <div class="centre">
+                <p>Loading...</p>
+                <div class="progress">
+                    <div class="progress-bar progress-bar-striped progress-bar-animated bg-black" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: calc(3.141 * var(--blazor-load-percentage, 0%) * 0.8)"></div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <div id="blazor-error-ui">
