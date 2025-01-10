@@ -1,0 +1,17 @@
+﻿.centre {
+    position: relative;
+    display: block;
+    width: 50%;
+    height: 50%;
+    margin: 20vh auto 1rem auto;
+}
+
+.aborder {
+    content: “”;
+    border: 70px solid #424242;
+    height: 100vh;
+    width: 100vw;
+    z-index: 1;
+}
+
+
